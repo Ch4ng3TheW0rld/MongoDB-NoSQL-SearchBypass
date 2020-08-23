@@ -32,7 +32,6 @@ while True:
         if check("^"+result+".*$"):
             password+=c
             print("[-] find a char:{}".format(password))
-            # print(password)
             break
         elif c==CHARSET[-1]:
             print(password)
