@@ -1,2 +1,2 @@
 # MongoDB-NoSQL-SearchBypass
-Search Bypass
+Blind NoSQL --Search Bypass
