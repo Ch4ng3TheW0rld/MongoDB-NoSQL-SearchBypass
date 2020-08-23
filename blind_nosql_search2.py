@@ -19,7 +19,7 @@ def check(payload):
     # Modificar el resultado de success, a la que mas se adapte
     return ">admin<" in str(data)
 
-# Caracter y digitos
+# Caracter,digitos y caracter especial de "-"
 CHARSET=list("-"+string.ascii_lowercase+string.digits)
 password=""
 
